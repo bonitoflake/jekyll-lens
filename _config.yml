@@ -1,20 +1,20 @@
 ## Site Meta ##
 # The title of the website.
-title: "Lens - Elastic Designs"
+title: "Hendon School 1977"
 # The description of the website
-description: "A Jekyll theme for photographers and photo bloggers."
+description: "Photos of friends from the school."
 # Keywords/tags for you site.
-keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
+keywords: "hendon, london, school, friends, david, stephen, leon, laurence, nicol, chloe, david, photography, blog, photography-blog, photo-blog"
 # Your copyright message.
 copyright: "Copyright &copy; 2017 - Elastic Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "Summer of '77"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: "Hendon"
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "Some snapshots of friends from my old school."
 social:
   # Your Twitter username.
   twitter_username: ""
